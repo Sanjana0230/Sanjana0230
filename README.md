@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Sanjana Rathod</h1>
-<h3 align="center">"Computer Engineering student | Learning MERN Stack & DSA | Turning ideas into real-world projects”</h3>
 
 - 🌱 I’m currently learning **DSA,ReactJS and MySQL**
 
